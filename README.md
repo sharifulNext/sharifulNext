@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co.com/6RkvDh4B/banner.gif" width="100%" alt="Shariful-Banner" />
+<img src="https://i.ibb.co.com/6RkvDh4B/banner.gif" width="80%" alt="Shariful-Banner" />
 
 <h1>Hi, I'm Shariful Islam! 👋</h1>
 
