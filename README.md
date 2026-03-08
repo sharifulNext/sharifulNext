@@ -1,8 +1,11 @@
 <div align="center">
 
-<h1 align="center">Hi there, I'm Shariful Islam! 👋</h1>
+# Hi there, I'm Shariful Islam! 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" />
+
 <p align="center">
-  <img src="https://i.ibb.co.com/6RkvDh4B/banner.gif?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://i.ibb.co.com/6RkvDh4B/banner.gif" width="100%" alt="Shariful-Banner" />
 </p>
 
 ---
@@ -31,8 +34,8 @@ I am a passionate **Student & Full-Stack Developer** based in Habiganj, Banglade
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="45%" style="margin: 5px;" />
 </div>
 
 <br>
