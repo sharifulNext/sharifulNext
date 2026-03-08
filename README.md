@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Shariful Islam! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://i.ibb.co.com/6RkvDh4B/banner.gif?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
 
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqbmV4dGouc2hhcmlmdWxuZXh0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9bF7P4V3q/giphy.gif" width="100%" />
