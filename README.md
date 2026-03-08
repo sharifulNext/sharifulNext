@@ -1,17 +1,28 @@
 <div align="center">
 
-# Hi there, I'm Shariful Islam! 👋
+<img src="https://i.ibb.co.com/6RkvDh4B/banner.gif" width="100%" alt="Shariful-Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" />
+<h1>Hi, I'm Shariful Islam! 👋</h1>
 
-<p align="center">
-  <img src="https://i.ibb.co.com/6RkvDh4B/banner.gif" width="100%" alt="Shariful-Banner" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=500&height=50&lines=Full-Stack+Developer;MERN+%26+Next.js+Enthusiast;Building+Scalable+Solutions" alt="Typing Animation" />
 
 ---
 
 # 💫 About Me
-I am a passionate **Student & Full-Stack Developer** based in Habiganj, Bangladesh. I thrive on building performance-optimized, scalable web applications that solve real-world problems. I specialize in the **MERN stack** and **Next.js**, focusing on writing clean, maintainable, and user-friendly code. Currently, I am expanding my technical horizon by mastering **TypeScript** and modern backend architectures.
+I am a passionate **Student & Full-Stack Developer** based in Habiganj, Bangladesh. I thrive on building performance-optimized, scalable web applications that solve real-world problems. I specialize in the **MERN stack** and **Next.js**, focusing on writing clean, maintainable, and user-friendly code.
+
+### 🚀 Current Focus & Activities
+* 🏗️ Building a feature-rich **Tourism Management Platform** with Next.js 14.
+* 💡 Deep-diving into **TypeScript** & advanced Server Actions.
+* 🔍 Optimizing database queries for better performance in MongoDB.
+* 🌐 Constantly learning and evolving to build better digital experiences.
+
+---
+
+# 💻 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,firebase,tailwind,figma,git,github,vscode" />
+</div>
 
 ---
 
@@ -25,17 +36,10 @@ I am a passionate **Student & Full-Stack Developer** based in Habiganj, Banglade
 
 ---
 
-# 💻 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,firebase,tailwind,figma,git,github,vscode" />
-</div>
-
----
-
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%" style="margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="45%" style="margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharifulNext&theme=dracula&show_icons=true&hide_border=true&layout=compact" width="45%" />
 </div>
 
 <br>
@@ -48,7 +52,7 @@ I am a passionate **Student & Full-Stack Developer** based in Habiganj, Banglade
 
 ## 💡 Developer Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&bg_color=00000000" alt="Developer Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&bg_color=00000000" />
 </div>
 
 ---
